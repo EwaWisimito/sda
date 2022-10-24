@@ -7,5 +7,7 @@ dodaje zmiany z poziomu githuba
 
 a tu dodaje zmiany z poziomu lokalnego/a tu z l
 
+a tu dodaje zmiany z poziomu lokalnego//zmieniam tu gh
+
 kolejne zmiany merge
 
