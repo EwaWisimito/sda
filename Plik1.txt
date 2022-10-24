@@ -2,3 +2,5 @@
 bleble ble
 
 Plik 1
+
+dodaje zmiany z poziomu githuba
