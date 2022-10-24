@@ -4,3 +4,5 @@ bleble ble
 Plik 1
 
 dodaje zmiany z poziomu githuba
+
+kolejne zmiany merge
