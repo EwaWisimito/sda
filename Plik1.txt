@@ -4,3 +4,5 @@ bleble ble
 Plik 1
 
 dodaje zmiany z poziomu githuba
+
+a tu dodaje zmiany z poziomu lokalnego
